@@ -23,7 +23,7 @@ The project is built using *PyCharm Community IDE*, and it should be run locally
 1. **Clone the repository**:
    Clone the repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/KrishnaRohithVemulapalli/Assignment1NLP.git
 
 
 ### Run the scripts:
